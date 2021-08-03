@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Paint_Online_App/static/css/main.dbeb82df.chunk.css",
+    "main.js": "/Paint_Online_App/static/js/main.0e83f5c5.chunk.js",
+    "main.js.map": "/Paint_Online_App/static/js/main.0e83f5c5.chunk.js.map",
+    "runtime-main.js": "/Paint_Online_App/static/js/runtime-main.f156adc8.js",
+    "runtime-main.js.map": "/Paint_Online_App/static/js/runtime-main.f156adc8.js.map",
+    "static/js/2.0dd0c3ad.chunk.js": "/Paint_Online_App/static/js/2.0dd0c3ad.chunk.js",
+    "static/js/2.0dd0c3ad.chunk.js.map": "/Paint_Online_App/static/js/2.0dd0c3ad.chunk.js.map",
+    "static/js/3.28bd58fe.chunk.js": "/Paint_Online_App/static/js/3.28bd58fe.chunk.js",
+    "static/js/3.28bd58fe.chunk.js.map": "/Paint_Online_App/static/js/3.28bd58fe.chunk.js.map",
+    "index.html": "/Paint_Online_App/index.html",
+    "static/css/main.dbeb82df.chunk.css.map": "/Paint_Online_App/static/css/main.dbeb82df.chunk.css.map",
+    "static/js/2.0dd0c3ad.chunk.js.LICENSE.txt": "/Paint_Online_App/static/js/2.0dd0c3ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f156adc8.js",
+    "static/js/2.0dd0c3ad.chunk.js",
+    "static/css/main.dbeb82df.chunk.css",
+    "static/js/main.0e83f5c5.chunk.js"
+  ]
+}
